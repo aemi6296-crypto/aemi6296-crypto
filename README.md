@@ -7,7 +7,7 @@ I'm a Software Engineering student who enjoys building practical, real-world app
 
 
 
-### 🔭 whoami
+### 🔭 who am i
 
 I'm currently studying Software Engineering and have built a number of projects along the way, ranging from small scripts to full web applications. My most recent project, **NeuraNotes**, is a personal study tracker with subjects, notes, flashcards with quizzes, a Pomodoro timer, and study analytics — built with Flask, SQLite, and vanilla JavaScript.
 
