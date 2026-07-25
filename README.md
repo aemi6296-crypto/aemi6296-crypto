@@ -43,7 +43,7 @@ Features: subjects with progress tracking, notes with search/highlighting/PDF ex
 ### 📫 Connect with me
 
 <p align="left">
-<a href="aemi6296@gmail.com"><img src="https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail"></a>
+<a href="mailto:aemi6296@gmail.com"><img src="https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail"></a>
 </p>
 
 ---
