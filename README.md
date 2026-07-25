@@ -36,8 +36,7 @@ Features: subjects with progress tracking, notes with search/highlighting/PDF ex
 ---
 
 ### 📊 GitHub Stats
-
-![Aiman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aemi6296-crypto&show_icons=true&theme=dark)
+![Aiman's GitHub stats](https://github-readme-stats-tau-flax.vercel.app/api?username=aemi6296-crypto&show_icons=true&theme=dark)
 
 ---
 
