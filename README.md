@@ -1,51 +1,21 @@
-<h1 align="center">Hi 👋, I'm Aiman</h1>
-<h3 align="center">Software Engineering Student | Building Full-Stack Web Apps</h3>
-
-<p align="center">
-I'm a Software Engineering student who enjoys building practical, real-world applications. I've worked on several projects so far, with NeuraNotes being my most recent one.
-</p>
+# 💫 About Me:
+👋 Hi, I'm Aiman!<br><br>🎓 Currently doing my ICS (Intermediate in Computer Science), but I've already built a good number of projects along the way.<br><br>💻 My most recent one, NeuraNotes, is a full personal study tracker built with Flask with notes, flashcards, a Pomodoro timer, and study analytics.<br><br>✨ Learning early, building early, and always looking for the next thing to create.
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aemi._.213) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aemi6296) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aemi6296@gmail.com) 
 
-### 🔭 who am i
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=aemi6296-crypto&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=aemi6296-crypto&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aemi6296-crypto&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-I'm currently studying Software Engineering and have built a number of projects along the way, ranging from small scripts to full web applications. My most recent project, **NeuraNotes**, is a personal study tracker with subjects, notes, flashcards with quizzes, a Pomodoro timer, and study analytics — built with Flask, SQLite, and vanilla JavaScript.
-
-I like turning everyday problems into working software, and I'm always looking to learn and build more.
-
-
-
-### 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode)
-
-
-
-### 📌 Featured Project
-
-**[NeuraNotes](https://github.com/aemi6296-crypto/NeuraNotes)** — A personal study tracker web app built with Flask.
-Features: subjects with progress tracking, notes with search/highlighting/PDF export, flashcards with quizzes, a Pomodoro timer that auto-logs study time, and a study analytics chart.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aemi6296-crypto&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+[![](https://komarev.com/ghpvc/?username=aemi6296-crypto&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📊 GitHub Stats
-![Aiman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aemi6296-crypto&show_icons=true&bg_color=261F28&title_color=EBDFE7&text_color=C8B4C4&icon_color=C8B4C4&border_color=5C4B57)
-
----
-
-### 📫 Connect with me
-
-<p align="left">
-<a href="mailto:aemi6296@gmail.com"><img src="https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail"></a>
-</p>
-
----
-
-<p align="center"><i>Let's build something 🚀</i></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
