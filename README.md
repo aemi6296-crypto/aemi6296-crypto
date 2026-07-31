@@ -12,10 +12,6 @@
 All my certificates, neatly in one place 
 👉 [View My Certifications](https://github.com/aemi6296-crypto/aemi6296-crypto/blob/main/certificates.pdf)
 
-## 📌 Featured Projects
-- 🌸 **[NeuraNotes](https://github.com/aemi6296-crypto/NeuraNotes)** — a personal study tracker with notes, flashcards + quizzes, a Pomodoro timer, and study analytics, built with Flask.
-- 🌙 **[WeatherCompanion](https://github.com/aemi6296-crypto/WeatherCompanion)** — a desktop weather app with an animated character who reacts to the real weather outside, built with Electron.js.
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aemi._.213) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aemi6296@gmail.com)
 
