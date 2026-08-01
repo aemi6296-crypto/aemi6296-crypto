@@ -9,7 +9,7 @@
 - ⚙️ Algorithm and Program Design — Huawei ICT Academy
 
 ## 📄 My Certifications
-All my certificates, neatly in one place 
+All my certificates
 👉 [View My Certifications](https://github.com/aemi6296-crypto/aemi6296-crypto/blob/main/certificates.pdf)
 
 ## 🌐 Socials:
