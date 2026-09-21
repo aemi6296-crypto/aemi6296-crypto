@@ -27,7 +27,8 @@ All my certificates
 
 **Backend / Frameworks**
 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)##Slack
+[![Join Slack](https://img.shields.io/badge/Join%20Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)]
 
 **Mobile App Development**
 
