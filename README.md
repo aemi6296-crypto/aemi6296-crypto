@@ -1,15 +1,7 @@
 #  About Me:
  Hi, I'm Aiman!<br><br>🎓 An ICS student who loves building real things and figuring out how they work under the hood  but I've already built a good number of projects along the way.<br><br> My most recent one, NeuraNotes, is a full personal study tracker built with Flask with notes, flashcards, a Pomodoro timer, and study analytics.<br><br>✨ Learning early, building early, and always looking for the next thing to create.
 
-## 🎓 Education & Certifications
-- 🏫 Currently pursuing Intermediate in Computer Science (ICS)
-- 🎓 CS50x: Introduction to Computer Science — Harvard University
-- 🔐 Ethical Hacker — Cisco Networking Academy
-- 🛡️ Network Security (CRA Training Program) — Huawei ICT Academy
-- ⚙️ Algorithm and Program Design — Huawei ICT Academy
-
 ## 📄 My Certifications
-All my certificates
 👉 [View My Certifications](https://github.com/aemi6296-crypto/aemi6296-crypto/blob/main/certificates.pdf)
 
 ## 🌐 Socials:
