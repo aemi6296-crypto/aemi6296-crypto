@@ -2,7 +2,7 @@
  Hi, I'm Aiman!<br><br> An ICS student who loves building real things and figuring out how they work under the hood  but I've already built a good number of projects along the way.<br><br> My most recent one, NeuraNotes, is a full personal study tracker built with Flask with notes, flashcards, a Pomodoro timer, and study analytics.<br><br> Learning early, building early, and always looking for the next thing to create.
 
 ## 📄 My Certifications
-👉 [View My Certifications](https://github.com/aemi6296-crypto/aemi6296-crypto/blob/main/certificates.pdf)
+👉 [View My Certifications](https://github.com/aemi6296-crypto/aemi6296-crypto/blob/main/certificates%20%282%29.pdf)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raven.commit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aemi6296@gmail.com)
